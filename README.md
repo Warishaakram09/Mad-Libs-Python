@@ -34,15 +34,16 @@ python mad_libs.py
 Enter the required inputs and enjoy the story! 🎭
 
 📌 Example Output
-Enter your name: Warisha
-Enter a thing: laptop
-Enter an action: coded a website
-Enter a place: design studio
+Enter your name: warisha
+Enter a thing: cat
+Enter an action: learning python
+Enter a place: cafe
 
 ✨ Your Story ✨
-One day, Warisha went to the design studio.
-There, she saw a laptop. Suddenly, the laptop coded a website!
-Warisha was so surprised and started laughing.
+
+One day, warisha went to the cafe.
+There, they saw a cat. Suddenly, the cat learning python!
+warisha was so surprised and started laughing.
 
 ✅ Your story is saved in 'mad_libs_story.txt'!
 📌 Future Improvements
